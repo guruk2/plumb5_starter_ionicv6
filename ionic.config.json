@@ -1,0 +1,7 @@
+{
+  "name": "Plumb5V6",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
