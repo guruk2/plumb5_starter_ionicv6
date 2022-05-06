@@ -1,4 +1,4 @@
-import { Component, OnInit, OnDestroy } from '@angular/core';
+import { Component } from '@angular/core';
 
 import { Platform } from '@ionic/angular';
 import { Router, NavigationStart, ActivatedRoute } from '@angular/router';
@@ -34,7 +34,6 @@ export class AppComponent {
     });
 
   }
-
 
   initializeApp() {
     this.platform.ready().then(() => {
