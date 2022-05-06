@@ -1,9 +1,6 @@
 {
-  "name": "Plumb5V6",
+  "name": "cordovaApp",
   "integrations": {
-    "capacitor": {
-      "enabled": false
-    },
     "cordova": {}
   },
   "type": "angular"
